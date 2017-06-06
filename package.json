@@ -1,0 +1,22 @@
+{
+  "name": "account",
+  "version": "1.0.0",
+  "description": "accounting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/momogugu/account.git"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "mogu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momogugu/account/issues"
+  },
+  "homepage": "https://github.com/momogugu/account#readme"
+}
